@@ -1,16 +1,18 @@
-### Hi there 👋
+ 🛠️ Explorer le Frontend avec passion : Conception, Création, et Collaboration 🎨
 
-<!--
-**fatemzh/fatemzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 Qui suis-je : Fatem, 27 ans, future développeuse Frontend | Apprentie FPA @ ETML
 
-Here are some ideas to get you started:
+🚀 Skills : React, Node.js, HTML, CSS, C#, PHP, MongoDB, Insomnia, Postman, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 En cours d'apprentissage : JavaScript, React, Design 3D
+
+🛠️ On the making :
+
+Kanban Desktop App (React + Electron) : Pour une gestion de projet efficace et intuitive.
+Portfolio Personnel (React) : Un reflet de mes compétences et de ma passion pour le frontend.
+
+
+🎯 Objectif : Décrocher un poste de développeuse frontend junior pour apporter ma touche créative.
+🎨 Passion : arts visuels, UI/UX, jeux vidéos, design, les interfaces intuitives, fluides, inclusives et accessibles.
+🤝 À la Recherche : Projets collaboratifs, hackathons, innovation.
+✨ Passionnée par l'informatique et toujours prête pour un nouveau challenge!
