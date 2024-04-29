@@ -1,22 +1,21 @@
- 🛠️ Explorer le Frontend avec passion : Conception, Création, et Collaboration 🎨
+🛠️ Passionately Exploring Frontend: Design, Creation, and Collaboration 🎨
 
-👩‍💻 Qui suis-je : Fatem, 28 ans, développeuse Frontend | Apprentie FPA @ ETML
+👩‍💻 About Me: Fatem, 28, Frontend Developer | FPA Apprentice @ ETML
 
-🚀 Ma stack : React, Node.js, HTML, CSS, TypeScript, JavaScript, tailwindCSS C#, PHP, MongoDB, Insomnia, Postman, MySQL
+🚀 My Stack: React, Node.js, HTML, CSS, TypeScript, JavaScript, TailwindCSS, C#, PHP, MongoDB, Insomnia, Postman, MySQL
 
-📚 En cours de perfectionnement : React, Node.JS
+📚 Currently Improving: React, Node.js
 
-🛠️ On the making :
+🛠️ Projects in Progress:
 
-Kanban Desktop App (React + Electron) : Pour une gestion de projet efficace et intuitive.
+Kanban Desktop App (React + Electron): For effective and intuitive project management.
+Personal Portfolio (React): A reflection of my skills and passion for frontend.  
 
-Portfolio Personnel (React) : Un reflet de mes compétences et de ma passion pour le frontend.
+  
+🎯 Goal: To land a junior frontend developer position to bring in my creative touch.
 
+🎨 Passion: Visual arts, UI/UX, video games, 3D design
 
-🎯 Objectif : Décrocher un poste de développeuse frontend junior pour apporter ma touche créative.
+🤝 Looking For: Collaborative projects, hackathons, innovation.
 
-🎨 Passion : arts visuels, UI/UX, jeux vidéos, design 3D
-
-🤝 À la Recherche : Projets collaboratifs, hackathons, innovation.
-
-✨ Passionnée par l'informatique et toujours prête pour un nouveau challenge!
+✨ Passionate about computing and always ready for a new challenge
